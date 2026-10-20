@@ -13,14 +13,14 @@ theme are preserved in `alt-backgrounds/`.
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/iliFalk/omarchy-oxocarbon-theme-hell.git
+omarchy-theme-install https://github.com/iliFalk/omarchy-oxocarbon-theme-light.git
 ```
 
 Omarchy derives the theme name from the repository name, so it appears as
-**Oxocarbon Theme Hell** in the theme picker. Apply it directly with:
+**Oxocarbon Theme Light** in the theme picker. Apply it directly with:
 
 ```bash
-omarchy-theme-set oxocarbon-theme-hell
+omarchy-theme-set oxocarbon-theme-light
 ```
 
 Switch back to the dark original at any time:
