@@ -1,0 +1,36 @@
+# ────────────────────────────────────────────────────────────
+# Alacritty — H1 ground, Oxocarbon ANSI
+# ────────────────────────────────────────────────────────────
+
+[colors]
+[colors.primary]
+background = "#f0ede5"
+foreground = "#1a1a18"
+
+[colors.cursor]
+text = "#f0ede5"
+cursor = "#1a1a18"
+
+[colors.selection]
+text = "#1a1a18"
+background = "#ddd8ca"
+
+[colors.normal]
+black = "#f0ede5"
+red = "#005d5d"
+green = "#0072c3"
+yellow = "#9f1853"
+blue = "#0e6027"
+magenta = "#6929c4"
+cyan = "#d02670"
+white = "#1a1a18"
+
+[colors.bright]
+black = "#5d5d5a"
+red = "#0043ce"
+green = "#d02670"
+yellow = "#6929c4"
+blue = "#525252"
+magenta = "#1a1a18"
+cyan = "#1192e8"
+white = "#005d5d"

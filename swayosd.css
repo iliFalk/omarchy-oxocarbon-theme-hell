@@ -1,0 +1,35 @@
+/* ────────────────────────────────────────────────────────────
+ * SwayOSD — H1 Light (iliFalk/h1-design-system)
+ * ────────────────────────────────────────────────────────────
+ */
+
+@define-color background-color #ffffff;
+@define-color border-color #ddd8ca;
+@define-color label #1a1a18;
+@define-color image #0078b3;
+@define-color progress #0078b3;
+
+
+/* Cancel out Omarchy settings */
+window:not(:backdrop),
+window:backdrop {
+    border: none;
+    border-width: 0;
+    border-radius: 4px;
+    background-color: transparent;
+    box-shadow: none;
+    padding: 12px;
+}
+
+
+/* Draw a new background */
+window:not(:backdrop) #container,
+window:backdrop #container {
+    border: 6px solid @border-color;
+    border-radius: 10px;
+    background-color: @background-color;
+    padding: 12px;
+    background-clip: padding-box;
+    box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.18);
+
+}

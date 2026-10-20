@@ -1,0 +1,58 @@
+# H1 light palette — colors from iliFalk/h1-design-system (src/index.css).
+# Accent fill #0078B3; text/link roles use the AA-safe step #00638F.
+accent = "#0078b3"
+cursor = "#1a1a18"
+foreground = "#1a1a18"
+background = "#f0ede5"
+selection_foreground = "#1a1a18"
+selection_background = "#ddd8ca"
+
+mode = "light"
+
+selection = "#ddd8ca"
+muted = "#4a4a46"
+
+hyprland_active_border = "rgb(0078B3)"
+hyprland_inactive_border = "rgb(DDD8CA)"
+
+dark_background = "#e8e4d9"
+darker_background = "#ddd8ca"
+lighter_background = "#ffffff"
+
+dark_foreground = "#5d5d5a"
+light_foreground = "#1a1a18"
+bright_foreground = "#00638f"
+
+# Terminal keeps the Oxocarbon accent roles on the warm H1 ground.
+red = "#005d5d"
+yellow = "#9f1853"
+orange = "#0043ce"
+green = "#0072c3"
+cyan = "#d02670"
+blue = "#0e6027"
+magenta = "#6929c4"
+brown = "#1192e8"
+
+bright_red = "#0043ce"
+bright_yellow = "#6929c4"
+bright_green = "#d02670"
+bright_cyan = "#1192e8"
+bright_blue = "#525252"
+bright_magenta = "#1a1a18"
+
+color0 = "#f0ede5"
+color1 = "#005d5d"
+color2 = "#0072c3"
+color3 = "#9f1853"
+color4 = "#0e6027"
+color5 = "#6929c4"
+color6 = "#d02670"
+color7 = "#1a1a18"
+color8 = "#5d5d5a"
+color9 = "#0043ce"
+color10 = "#d02670"
+color11 = "#6929c4"
+color12 = "#525252"
+color13 = "#1a1a18"
+color14 = "#1192e8"
+color15 = "#005d5d"
