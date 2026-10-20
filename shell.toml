@@ -1,8 +1,8 @@
 # Omarchy Quattro surfaces — H1 Light (iliFalk/h1-design-system).
 
 [bar]
-background = "#f0ede5"
-background-alpha = 1.0
+background = "#e8e4d9"
+background-alpha = 0.97
 text = "#1a1a18"
 active = "#bf3922"
 scale-with-font = true
