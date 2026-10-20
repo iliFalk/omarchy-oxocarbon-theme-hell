@@ -94,9 +94,15 @@ The terminal keeps the Oxocarbon ANSI hues on the warm H1 ground:
 
 ## Backgrounds
 
-- `backgrounds/ascii-art.png` — coloured ASCII halftone flow (default)
+- `backgrounds/1-horisont.png` — H1-toned horizon, native 6016×3384 (default)
+- `backgrounds/ascii-art.png` — coloured ASCII halftone flow
 - `backgrounds/light.jpg` — warm H1 gradient
-- `alt-backgrounds/` — original Oxocarbon dark wallpapers
+- `alt-backgrounds/` — original Oxocarbon dark wallpapers and the dark-toned
+  horizon (`1-horisont-dark.png`)
+
+The two horizon variants are colour-graded at the source resolution, not
+resized or upscaled: the light version maps to `#F0EDE5` and `#0078B3`, the
+dark version to `#161616` and `#33B1FF`.
 
 Cycle through the theme backgrounds with `omarchy-theme-bg-next`.
 
