@@ -92,6 +92,14 @@ The terminal keeps the Oxocarbon ANSI hues on the warm H1 ground:
 - GTK, Steam, Discord/Vencord, Zed, Chromium/Zen files are included with a
   neutral light palette and can be adapted to H1 separately.
 
+## Backgrounds
+
+- `backgrounds/ascii-art.png` — halftone dot flow (default)
+- `backgrounds/light.jpg` — warm H1 gradient
+- `alt-backgrounds/` — original Oxocarbon dark wallpapers
+
+Cycle through the theme backgrounds with `omarchy-theme-bg-next`.
+
 ### Note on Omarchy's git-theme policy
 
 Omarchy does not stage `alacritty.toml`, `ghostty.conf`, `kitty.conf`,
