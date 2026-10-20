@@ -94,7 +94,7 @@ The terminal keeps the Oxocarbon ANSI hues on the warm H1 ground:
 
 ## Backgrounds
 
-- `backgrounds/ascii-art.png` — halftone dot flow (default)
+- `backgrounds/ascii-art.png` — coloured ASCII halftone flow (default)
 - `backgrounds/light.jpg` — warm H1 gradient
 - `alt-backgrounds/` — original Oxocarbon dark wallpapers
 
